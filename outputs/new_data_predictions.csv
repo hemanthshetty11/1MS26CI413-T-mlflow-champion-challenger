@@ -1,0 +1,9 @@
+text,predicted_label,confidence
+This movie was absolutely fantastic and entertaining.,POSITIVE,0.9997228980064392
+The story was boring and I did not enjoy it.,NEGATIVE,0.9990310668945312
+The acting was brilliant and the direction was excellent.,POSITIVE,0.9995459914207458
+I regret wasting my time watching this terrible movie.,NEGATIVE,0.9986013770103455
+A wonderful experience with a beautiful storyline.,POSITIVE,0.9997323155403137
+The film was disappointing and poorly executed.,NEGATIVE,0.998766303062439
+I loved every moment of this amazing movie.,POSITIVE,0.9995670914649963
+The movie was dull and completely uninteresting.,NEGATIVE,0.9992544054985046

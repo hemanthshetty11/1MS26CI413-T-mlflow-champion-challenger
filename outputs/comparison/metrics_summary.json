@@ -1,0 +1,18 @@
+﻿{
+    "Model A": {
+        "accuracy": 0.915,
+        "precision_macro": 0.9182986536107711,
+        "recall_macro": 0.9121193849864335,
+        "macro_f1": 0.9140524280189085,
+        "avg_latency_ms": 37.565329,
+        "total_inference_s": 7.513066
+    },
+    "Model B": {
+        "accuracy": 0.95,
+        "precision_macro": 0.9504990422421615,
+        "recall_macro": 0.9490503466988243,
+        "macro_f1": 0.9496779388083736,
+        "avg_latency_ms": 80.234,
+        "total_inference_s": 16.0468
+    }
+}

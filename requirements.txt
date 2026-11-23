@@ -1,0 +1,9 @@
+
+mlflow==3.18.0
+torch
+transformers
+datasets
+evaluate
+scikit-learn
+matplotlib
+pandas

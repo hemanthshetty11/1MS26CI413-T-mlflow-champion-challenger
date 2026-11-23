@@ -1,0 +1,6 @@
+text,actual_label,model_A_prediction,model_A_confidence,model_B_prediction,model_B_confidence
+the film tunes into a grief that could lead a man across centuries . ,POSITIVE,NEGATIVE,0.9631164073944092,POSITIVE,0.8487178087234497
+"you 'll gasp appalled and laugh outraged and possibly , watching the spectacle of a promising young lad treading desperately in a nasty sea , shed an errant tear . ",POSITIVE,NEGATIVE,0.9496975541114807,POSITIVE,0.5367745161056519
+true tale of courage -- and complicity -- at auschwitz is a harrowing drama that tries to tell of the unspeakable . ,POSITIVE,NEGATIVE,0.6912521719932556,POSITIVE,0.9776835441589355
+"pumpkin means to be an outrageous dark satire on fraternity life , but its ambitions far exceed the abilities of writer adam larson broder and his co-director , tony r. abrams , in their feature debut . ",NEGATIVE,POSITIVE,0.920257568359375,NEGATIVE,0.9800283908843994
+a solid film ... but more conscientious than it is truly stirring . ,POSITIVE,POSITIVE,0.9995518326759338,NEGATIVE,0.8885176777839661
